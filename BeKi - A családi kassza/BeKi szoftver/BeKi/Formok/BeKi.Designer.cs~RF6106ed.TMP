@@ -1,0 +1,229 @@
+﻿namespace BeKi
+{
+    partial class BeKi
+    {
+        /// <summary>
+        /// Required designer variable.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Clean up any resources being used.
+        /// </summary>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Windows Form Designer generated code
+
+        /// <summary>
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.honapValasztoComboBox = new System.Windows.Forms.ComboBox();
+            this.evszamValasztoNumUpDown = new System.Windows.Forms.NumericUpDown();
+            this.evHonapValasztoGroupBox1 = new System.Windows.Forms.GroupBox();
+            this.button1 = new System.Windows.Forms.Button();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.button2 = new System.Windows.Forms.Button();
+            this.listBox1 = new System.Windows.Forms.ListBox();
+            this.listBox2 = new System.Windows.Forms.ListBox();
+            this.button3 = new System.Windows.Forms.Button();
+            ((System.ComponentModel.ISupportInitialize)(this.evszamValasztoNumUpDown)).BeginInit();
+            this.evHonapValasztoGroupBox1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // honapValasztoComboBox
+            // 
+            this.honapValasztoComboBox.AutoCompleteCustomSource.AddRange(new string[] {
+            "január",
+            "február",
+            "március",
+            "április",
+            "május",
+            "június",
+            "július",
+            "augusztus",
+            "szeptember",
+            "október",
+            "november",
+            "december"});
+            this.honapValasztoComboBox.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
+            this.honapValasztoComboBox.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.CustomSource;
+            this.honapValasztoComboBox.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            this.honapValasztoComboBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.honapValasztoComboBox.FormattingEnabled = true;
+            this.honapValasztoComboBox.Items.AddRange(new object[] {
+            "január",
+            "február",
+            "március",
+            "április",
+            "május",
+            "június",
+            "július",
+            "augusztus",
+            "szeptember",
+            "október",
+            "november",
+            "december"});
+            this.honapValasztoComboBox.Location = new System.Drawing.Point(8, 49);
+            this.honapValasztoComboBox.Margin = new System.Windows.Forms.Padding(4);
+            this.honapValasztoComboBox.Name = "honapValasztoComboBox";
+            this.honapValasztoComboBox.Size = new System.Drawing.Size(105, 24);
+            this.honapValasztoComboBox.TabIndex = 3;
+            // 
+            // evszamValasztoNumUpDown
+            // 
+            this.evszamValasztoNumUpDown.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            this.evszamValasztoNumUpDown.Location = new System.Drawing.Point(8, 19);
+            this.evszamValasztoNumUpDown.Margin = new System.Windows.Forms.Padding(4);
+            this.evszamValasztoNumUpDown.Maximum = new decimal(new int[] {
+            2050,
+            0,
+            0,
+            0});
+            this.evszamValasztoNumUpDown.Minimum = new decimal(new int[] {
+            2020,
+            0,
+            0,
+            0});
+            this.evszamValasztoNumUpDown.Name = "evszamValasztoNumUpDown";
+            this.evszamValasztoNumUpDown.Size = new System.Drawing.Size(105, 22);
+            this.evszamValasztoNumUpDown.TabIndex = 2;
+            this.evszamValasztoNumUpDown.Value = new decimal(new int[] {
+            2020,
+            0,
+            0,
+            0});
+            // 
+            // evHonapValasztoGroupBox1
+            // 
+            this.evHonapValasztoGroupBox1.Controls.Add(this.button1);
+            this.evHonapValasztoGroupBox1.Controls.Add(this.honapValasztoComboBox);
+            this.evHonapValasztoGroupBox1.Controls.Add(this.evszamValasztoNumUpDown);
+            this.evHonapValasztoGroupBox1.Location = new System.Drawing.Point(13, 13);
+            this.evHonapValasztoGroupBox1.Margin = new System.Windows.Forms.Padding(4);
+            this.evHonapValasztoGroupBox1.Name = "evHonapValasztoGroupBox1";
+            this.evHonapValasztoGroupBox1.Padding = new System.Windows.Forms.Padding(4);
+            this.evHonapValasztoGroupBox1.Size = new System.Drawing.Size(213, 81);
+            this.evHonapValasztoGroupBox1.TabIndex = 4;
+            this.evHonapValasztoGroupBox1.TabStop = false;
+            // 
+            // button1
+            // 
+            this.button1.BackColor = System.Drawing.Color.Transparent;
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.button1.Location = new System.Drawing.Point(121, 19);
+            this.button1.Margin = new System.Windows.Forms.Padding(4);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(81, 55);
+            this.button1.TabIndex = 1;
+            this.button1.Text = "🔍 Betöltés";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.DGV_AdatFeltöltés);
+            // 
+            // dataGridView1
+            // 
+            this.dataGridView1.AllowUserToAddRows = false;
+            this.dataGridView1.AllowUserToDeleteRows = false;
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Location = new System.Drawing.Point(13, 102);
+            this.dataGridView1.Margin = new System.Windows.Forms.Padding(4);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.ReadOnly = true;
+            this.dataGridView1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.dataGridView1.Size = new System.Drawing.Size(593, 663);
+            this.dataGridView1.TabIndex = 5;
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(234, 28);
+            this.button2.Margin = new System.Windows.Forms.Padding(4);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(113, 62);
+            this.button2.TabIndex = 8;
+            this.button2.Text = "Gyűjtőkategória adminisztráció";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
+            // listBox1
+            // 
+            this.listBox1.FormattingEnabled = true;
+            this.listBox1.ItemHeight = 16;
+            this.listBox1.Location = new System.Drawing.Point(786, 102);
+            this.listBox1.Name = "listBox1";
+            this.listBox1.Size = new System.Drawing.Size(132, 180);
+            this.listBox1.TabIndex = 10;
+            this.listBox1.SelectedIndexChanged += new System.EventHandler(this.listBox_SelectedIndexChanged);
+            // 
+            // listBox2
+            // 
+            this.listBox2.FormattingEnabled = true;
+            this.listBox2.ItemHeight = 16;
+            this.listBox2.Location = new System.Drawing.Point(648, 102);
+            this.listBox2.Name = "listBox2";
+            this.listBox2.Size = new System.Drawing.Size(132, 180);
+            this.listBox2.TabIndex = 11;
+            this.listBox2.SelectedIndexChanged += new System.EventHandler(this.listBox_SelectedIndexChanged);
+            // 
+            // button3
+            // 
+            this.button3.Location = new System.Drawing.Point(355, 28);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(113, 62);
+            this.button3.TabIndex = 12;
+            this.button3.Text = "Pénzmozgás";
+            this.button3.UseVisualStyleBackColor = true;
+            this.button3.Click += new System.EventHandler(this.button3_Click_1);
+            // 
+            // BeKi
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.ClientSize = new System.Drawing.Size(1299, 796);
+            this.Controls.Add(this.button3);
+            this.Controls.Add(this.listBox2);
+            this.Controls.Add(this.listBox1);
+            this.Controls.Add(this.button2);
+            this.Controls.Add(this.dataGridView1);
+            this.Controls.Add(this.evHonapValasztoGroupBox1);
+            this.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(238)));
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.Margin = new System.Windows.Forms.Padding(4);
+            this.MaximizeBox = false;
+            this.Name = "BeKi";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "BeKi";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Form1_FormClosing);
+            this.Load += new System.EventHandler(this.Form1_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.evszamValasztoNumUpDown)).EndInit();
+            this.evHonapValasztoGroupBox1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            this.ResumeLayout(false);
+
+        }
+
+        #endregion
+
+        private System.Windows.Forms.ComboBox honapValasztoComboBox;
+        private System.Windows.Forms.NumericUpDown evszamValasztoNumUpDown;
+        private System.Windows.Forms.GroupBox evHonapValasztoGroupBox1;
+        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.ListBox listBox1;
+        private System.Windows.Forms.ListBox listBox2;
+        private System.Windows.Forms.Button button3;
+    }
+}
+

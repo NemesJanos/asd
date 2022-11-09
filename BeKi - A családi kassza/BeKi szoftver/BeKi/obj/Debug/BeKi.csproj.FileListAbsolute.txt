@@ -1,0 +1,751 @@
+E:\Szakdolgozat\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+E:\Szakdolgozat\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+E:\Szakdolgozat\BeKi\BeKi\bin\Debug\BeKi.exe.config
+E:\Szakdolgozat\BeKi\BeKi\bin\Debug\BeKi.exe
+E:\Szakdolgozat\BeKi\BeKi\bin\Debug\BeKi.pdb
+E:\Szakdolgozat\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+E:\Szakdolgozat\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+E:\Szakdolgozat\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+E:\Szakdolgozat\BeKi\BeKi\obj\Debug\BeKi.exe
+E:\Szakdolgozat\BeKi\BeKi\obj\Debug\BeKi.pdb
+E:\Szakdolgozat\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+E:\Szakdolgozat\BeKi\BeKi\obj\Debug\BeKi.UjPenzmozgasTipusDefinialas.resources
+e:\Szakdolgozat\2020-01-11\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-01-11\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-01-11\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-01-11\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-11\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-11\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-01-11\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-01-11\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-01-11\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-01-11\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-11\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-11\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasTipusFrm.resources
+E:\Szakdolgozat\2020-01-11\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasGyujtoTipusFrm.resources
+e:\Szakdolgozat\2020-01-12\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-01-12\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-01-12\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-01-12\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-12\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-12\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-01-12\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasGyujtoTipusFrm.resources
+e:\Szakdolgozat\2020-01-12\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasTipusFrm.resources
+e:\Szakdolgozat\2020-01-12\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-01-12\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-01-12\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-01-12\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-12\BeKi\BeKi\obj\Debug\BeKi.pdb
+p:\Ruander\Szakdolgozat\2020-01-13\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+p:\Ruander\Szakdolgozat\2020-01-13\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasGyujtoTipusFrm.resources
+p:\Ruander\Szakdolgozat\2020-01-13\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+p:\Ruander\Szakdolgozat\2020-01-13\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+p:\Ruander\Szakdolgozat\2020-01-13\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+p:\Ruander\Szakdolgozat\2020-01-13\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+p:\Ruander\Szakdolgozat\2020-01-13\BeKi\BeKi\obj\Debug\BeKi.exe
+p:\Ruander\Szakdolgozat\2020-01-13\BeKi\BeKi\obj\Debug\BeKi.pdb
+p:\Ruander\Szakdolgozat\2020-01-13\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+p:\Ruander\Szakdolgozat\2020-01-13\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+p:\Ruander\Szakdolgozat\2020-01-13\BeKi\BeKi\bin\Debug\BeKi.exe.config
+p:\Ruander\Szakdolgozat\2020-01-13\BeKi\BeKi\bin\Debug\BeKi.exe
+p:\Ruander\Szakdolgozat\2020-01-13\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-13\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-01-13\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-01-13\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-01-13\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-13\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-13\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-01-13\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasGyujtoTipusFrm.resources
+e:\Szakdolgozat\2020-01-13\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-01-13\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-01-13\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-01-13\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-01-13\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-13\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-13 b\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-01-13 b\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-01-13 b\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-01-13 b\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-01-13 b\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-01-13 b\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-01-13 b\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-13 b\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-13 b\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-01-13 b\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-01-13 b\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-01-13 b\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-13 b\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-15\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-01-15\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-15\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-15\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-01-15\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-01-15\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-01-15\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-01-15\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-01-15\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-01-15\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-15\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-15 b\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-01-15 b\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-15 b\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-15 b\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-01-15 b\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-01-15 b\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-01-15 b\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-01-15 b\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-01-15 b\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-01-15 b\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-15 b\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-15 b eldőlt, hogy csak a tervezés lesz nyilvántartva\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-01-15 b eldőlt, hogy csak a tervezés lesz nyilvántartva\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-01-15 b eldőlt, hogy csak a tervezés lesz nyilvántartva\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-01-15 b eldőlt, hogy csak a tervezés lesz nyilvántartva\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-01-15 b eldőlt, hogy csak a tervezés lesz nyilvántartva\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-01-15 b eldőlt, hogy csak a tervezés lesz nyilvántartva\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-01-15 b eldőlt, hogy csak a tervezés lesz nyilvántartva\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-15 b eldőlt, hogy csak a tervezés lesz nyilvántartva\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-15 b eldőlt, hogy csak a tervezés lesz nyilvántartva\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-01-15 b eldőlt, hogy csak a tervezés lesz nyilvántartva\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-15 b eldőlt, hogy csak a tervezés lesz nyilvántartva\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-15 b eldőlt, hogy csak a tervezés lesz nyilvántartva\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-01-15 b eldőlt, hogy csak a tervezés lesz nyilvántartva\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+E:\Szakdolgozat\2020-01-16\BeKi\BeKi\bin\Debug\BeKi.exe.config
+E:\Szakdolgozat\2020-01-16\BeKi\BeKi\bin\Debug\BeKi.exe
+E:\Szakdolgozat\2020-01-16\BeKi\BeKi\bin\Debug\BeKi.pdb
+E:\Szakdolgozat\2020-01-16\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+E:\Szakdolgozat\2020-01-16\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+E:\Szakdolgozat\2020-01-16\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+E:\Szakdolgozat\2020-01-16\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+E:\Szakdolgozat\2020-01-16\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+E:\Szakdolgozat\2020-01-16\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+E:\Szakdolgozat\2020-01-16\BeKi\BeKi\obj\Debug\BeKi.exe
+E:\Szakdolgozat\2020-01-16\BeKi\BeKi\obj\Debug\BeKi.pdb
+E:\Szakdolgozat\2020-01-16\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+E:\Szakdolgozat\2020-01-16\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-01-16 b\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-01-16 b\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-16 b\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-16 b\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-01-16 b\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-01-16 b\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-01-16 b\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-01-16 b\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-01-16 b\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-01-16 b\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-16 b\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-16 b\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-01-16 b\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-01-17\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-01-17\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-01-17\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-01-17\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-17\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-17\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-01-17\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-01-17\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-01-17\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-01-17\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-01-17\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-01-17\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-17\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-18\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-01-18\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-01-18\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-01-18\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-18\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-18\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-01-18\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-01-18\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-01-18\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-01-18\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-01-18\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-01-18\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-18\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-19\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-01-19\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-01-19\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-01-19\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-19\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-19\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-01-19\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-01-19\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-01-19\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-01-19\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-01-19\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-01-19\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-19\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-19 b\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-01-19 b\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-01-19 b\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-01-19 b\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-19 b\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-19 b\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-01-19 b\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-01-19 b\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-01-19 b\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-01-19 b\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-01-19 b\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-01-19 b\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-19 b\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-20\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-01-20\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-01-20\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-01-20\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-20\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-20\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-01-20\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-01-20\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-01-20\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-01-20\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-01-20\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-01-20\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-20\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-21\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-01-21\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-01-21\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-01-21\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-01-21\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-01-21\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-01-21\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-21\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-21\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-01-21\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-01-21\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-01-21\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-21\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-22\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-01-22\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-01-22\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-01-22\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-22\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-22\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-01-22\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-01-22\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-01-22\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-01-22\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-01-22\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-01-22\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-22\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-22\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-01-23\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-01-23\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-01-23\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-01-23\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-23\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-23\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-01-23\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-01-23\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-01-23\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-01-23\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-01-23\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-01-23\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-01-23\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-23\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-24\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-01-24\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-01-24\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-01-24\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-24\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-24\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-01-24\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-01-24\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-01-24\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-01-24\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-01-24\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-01-24\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-01-24\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-24\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-24\BeKi\BeKi\obj\Debug\BeKi.HonapEpito.resources
+e:\Szakdolgozat\2020-01-26\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-01-26\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-01-26\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-01-26\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-26\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-26\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-01-26\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-01-26\BeKi\BeKi\obj\Debug\BeKi.HonapEpito.resources
+e:\Szakdolgozat\2020-01-26\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-01-26\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-01-26\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-01-26\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-01-26\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-01-26\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-26\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-27\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-01-27\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-01-27\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-01-27\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-27\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-27\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-01-27\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-01-27\BeKi\BeKi\obj\Debug\BeKi.HonapEpito.resources
+e:\Szakdolgozat\2020-01-27\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-01-27\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-01-27\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-01-27\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-01-27\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-01-27\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-27\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-27\BeKi\BeKi\obj\Debug\BeKi.UzenetAblak.resources
+e:\Szakdolgozat\2020-01-28\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-01-28\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-01-28\BeKi\BeKi\obj\Debug\BeKi.HonapEpito.resources
+e:\Szakdolgozat\2020-01-28\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-01-28\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-01-28\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-01-28\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-01-28\BeKi\BeKi\obj\Debug\BeKi.UzenetAblak.resources
+e:\Szakdolgozat\2020-01-28\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-01-28\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-28\BeKi\BeKi\obj\Debug\BeKi.pdb
+E:\Szakdolgozat\2020-01-28\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+E:\Szakdolgozat\2020-01-28\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+E:\Szakdolgozat\2020-01-28\BeKi\BeKi\bin\Debug\BeKi.exe.config
+E:\Szakdolgozat\2020-01-28\BeKi\BeKi\bin\Debug\BeKi.exe
+E:\Szakdolgozat\2020-01-28\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-30\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-01-30\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-01-30\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-01-30\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-30\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-30\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-01-30\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-01-30\BeKi\BeKi\obj\Debug\BeKi.HonapEpito.resources
+e:\Szakdolgozat\2020-01-30\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-01-30\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-01-30\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-01-30\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-01-30\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-01-30\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-30\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-31\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-01-31\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-01-31\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-01-31\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-31\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-31\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-01-31\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-01-31\BeKi\BeKi\obj\Debug\BeKi.HonapEpito.resources
+e:\Szakdolgozat\2020-01-31\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-01-31\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-01-31\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-01-31\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-01-31\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-01-31\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-01-31\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-01-31\BeKi\BeKi\obj\Debug\BeKi.BeallitasokFrm.resources
+e:\Szakdolgozat\2020-02-01\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-02-01\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-02-01\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-02-01\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-01\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-01\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-02-01\BeKi\BeKi\obj\Debug\BeKi.BeallitasokFrm.resources
+e:\Szakdolgozat\2020-02-01\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-02-01\BeKi\BeKi\obj\Debug\BeKi.HonapEpito.resources
+e:\Szakdolgozat\2020-02-01\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-02-01\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-02-01\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-02-01\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-02-01\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-02-01\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-01\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-01 Saját üzenetablak kész\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-02-01 Saját üzenetablak kész\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-02-01 Saját üzenetablak kész\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-02-01 Saját üzenetablak kész\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-01 Saját üzenetablak kész\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-01 Saját üzenetablak kész\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-02-01 Saját üzenetablak kész\BeKi\BeKi\obj\Debug\BeKi.BeallitasokFrm.resources
+e:\Szakdolgozat\2020-02-01 Saját üzenetablak kész\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-02-01 Saját üzenetablak kész\BeKi\BeKi\obj\Debug\BeKi.HonapEpito.resources
+e:\Szakdolgozat\2020-02-01 Saját üzenetablak kész\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-02-01 Saját üzenetablak kész\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-02-01 Saját üzenetablak kész\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-02-01 Saját üzenetablak kész\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-02-01 Saját üzenetablak kész\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-02-01 Saját üzenetablak kész\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-01 Saját üzenetablak kész\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-01 Saját üzenetablak kész 2\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-02-01 Saját üzenetablak kész 2\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-02-01 Saját üzenetablak kész 2\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-02-01 Saját üzenetablak kész 2\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-01 Saját üzenetablak kész 2\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-01 Saját üzenetablak kész 2\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-02-01 Saját üzenetablak kész 2\BeKi\BeKi\obj\Debug\BeKi.SzervizFrm.resources
+e:\Szakdolgozat\2020-02-01 Saját üzenetablak kész 2\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-02-01 Saját üzenetablak kész 2\BeKi\BeKi\obj\Debug\BeKi.HonapEpito.resources
+e:\Szakdolgozat\2020-02-01 Saját üzenetablak kész 2\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-02-01 Saját üzenetablak kész 2\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-02-01 Saját üzenetablak kész 2\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-02-01 Saját üzenetablak kész 2\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-02-01 Saját üzenetablak kész 2\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-02-01 Saját üzenetablak kész 2\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-01 Saját üzenetablak kész 2\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-02\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-02-02\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-02-02\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-02-02\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-02\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-02\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-02-02\BeKi\BeKi\obj\Debug\BeKi.SzervizFrm.resources
+e:\Szakdolgozat\2020-02-02\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-02-02\BeKi\BeKi\obj\Debug\BeKi.HonapEpito.resources
+e:\Szakdolgozat\2020-02-02\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-02-02\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-02-02\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-02-02\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-02-02\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-02-02\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-02\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-02 SysTray ikon és parancssor indítás kész és aut indítás\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-02-02 SysTray ikon és parancssor indítás kész és aut indítás\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-02-02 SysTray ikon és parancssor indítás kész és aut indítás\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-02-02 SysTray ikon és parancssor indítás kész és aut indítás\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-02 SysTray ikon és parancssor indítás kész és aut indítás\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-02 SysTray ikon és parancssor indítás kész és aut indítás\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-02-02 SysTray ikon és parancssor indítás kész és aut indítás\BeKi\BeKi\obj\Debug\BeKi.SzervizFrm.resources
+e:\Szakdolgozat\2020-02-02 SysTray ikon és parancssor indítás kész és aut indítás\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-02-02 SysTray ikon és parancssor indítás kész és aut indítás\BeKi\BeKi\obj\Debug\BeKi.HonapEpito.resources
+e:\Szakdolgozat\2020-02-02 SysTray ikon és parancssor indítás kész és aut indítás\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-02-02 SysTray ikon és parancssor indítás kész és aut indítás\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-02-02 SysTray ikon és parancssor indítás kész és aut indítás\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-02-02 SysTray ikon és parancssor indítás kész és aut indítás\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-02-02 SysTray ikon és parancssor indítás kész és aut indítás\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-02-02 SysTray ikon és parancssor indítás kész és aut indítás\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-02 SysTray ikon és parancssor indítás kész és aut indítás\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-02 Új hónap generálás kiszervezése\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-02-02 Új hónap generálás kiszervezése\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-02-02 Új hónap generálás kiszervezése\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-02-02 Új hónap generálás kiszervezése\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-02 Új hónap generálás kiszervezése\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-02 Új hónap generálás kiszervezése\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-02-02 Új hónap generálás kiszervezése\BeKi\BeKi\obj\Debug\BeKi.SzervizFrm.resources
+e:\Szakdolgozat\2020-02-02 Új hónap generálás kiszervezése\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-02-02 Új hónap generálás kiszervezése\BeKi\BeKi\obj\Debug\BeKi.HonapEpito.resources
+e:\Szakdolgozat\2020-02-02 Új hónap generálás kiszervezése\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-02-02 Új hónap generálás kiszervezése\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-02-02 Új hónap generálás kiszervezése\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-02-02 Új hónap generálás kiszervezése\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-02-02 Új hónap generálás kiszervezése\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-02-02 Új hónap generálás kiszervezése\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-02 Új hónap generálás kiszervezése\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-03 Clone Interfésszel\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-02-03 Clone Interfésszel\BeKi\BeKi\obj\Debug\BeKi.SzervizFrm.resources
+e:\Szakdolgozat\2020-02-03 Clone Interfésszel\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-02-03 Clone Interfésszel\BeKi\BeKi\obj\Debug\BeKi.HonapEpito.resources
+e:\Szakdolgozat\2020-02-03 Clone Interfésszel\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-02-03 Clone Interfésszel\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-02-03 Clone Interfésszel\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-02-03 Clone Interfésszel\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-02-03 Clone Interfésszel\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-02-03 Clone Interfésszel\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-03 Clone Interfésszel\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-03 Clone Interfésszel\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-02-03 Clone Interfésszel\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-02-03 Clone Interfésszel\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-02-03 Clone Interfésszel\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-03 Clone Interfésszel\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-03 IComparable Interfésszel\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-02-03 IComparable Interfésszel\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-02-03 IComparable Interfésszel\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-02-03 IComparable Interfésszel\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-03 IComparable Interfésszel\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-03 IComparable Interfésszel\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-02-03 IComparable Interfésszel\BeKi\BeKi\obj\Debug\BeKi.SzervizFrm.resources
+e:\Szakdolgozat\2020-02-03 IComparable Interfésszel\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-02-03 IComparable Interfésszel\BeKi\BeKi\obj\Debug\BeKi.HonapEpito.resources
+e:\Szakdolgozat\2020-02-03 IComparable Interfésszel\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-02-03 IComparable Interfésszel\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-02-03 IComparable Interfésszel\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-02-03 IComparable Interfésszel\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-02-03 IComparable Interfésszel\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-02-03 IComparable Interfésszel\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-03 IComparable Interfésszel\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-04\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-02-04\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-02-04\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-02-04\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-04\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-04\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-02-04\BeKi\BeKi\obj\Debug\BeKi.SzervizFrm.resources
+e:\Szakdolgozat\2020-02-04\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-02-04\BeKi\BeKi\obj\Debug\BeKi.HonapEpito.resources
+e:\Szakdolgozat\2020-02-04\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-02-04\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-02-04\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-02-04\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-02-04\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-02-04\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-04\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-04 Betöltés gomb nincs többé 2\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-02-04 Betöltés gomb nincs többé 2\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-02-04 Betöltés gomb nincs többé 2\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-02-04 Betöltés gomb nincs többé 2\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-04 Betöltés gomb nincs többé 2\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-04 Betöltés gomb nincs többé 2\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-02-04 Betöltés gomb nincs többé 2\BeKi\BeKi\obj\Debug\BeKi.SzervizFrm.resources
+e:\Szakdolgozat\2020-02-04 Betöltés gomb nincs többé 2\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-02-04 Betöltés gomb nincs többé 2\BeKi\BeKi\obj\Debug\BeKi.HonapEpito.resources
+e:\Szakdolgozat\2020-02-04 Betöltés gomb nincs többé 2\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-02-04 Betöltés gomb nincs többé 2\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-02-04 Betöltés gomb nincs többé 2\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-02-04 Betöltés gomb nincs többé 2\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-02-04 Betöltés gomb nincs többé 2\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-02-04 Betöltés gomb nincs többé 2\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-04 Betöltés gomb nincs többé 2\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-04 Betöltés gomb nincs többé 2 ICloneable\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-02-04 Betöltés gomb nincs többé 2 ICloneable\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-02-04 Betöltés gomb nincs többé 2 ICloneable\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-02-04 Betöltés gomb nincs többé 2 ICloneable\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-04 Betöltés gomb nincs többé 2 ICloneable\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-04 Betöltés gomb nincs többé 2 ICloneable\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-02-04 Betöltés gomb nincs többé 2 ICloneable\BeKi\BeKi\obj\Debug\BeKi.SzervizFrm.resources
+e:\Szakdolgozat\2020-02-04 Betöltés gomb nincs többé 2 ICloneable\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-02-04 Betöltés gomb nincs többé 2 ICloneable\BeKi\BeKi\obj\Debug\BeKi.HonapEpito.resources
+e:\Szakdolgozat\2020-02-04 Betöltés gomb nincs többé 2 ICloneable\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-02-04 Betöltés gomb nincs többé 2 ICloneable\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-02-04 Betöltés gomb nincs többé 2 ICloneable\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-02-04 Betöltés gomb nincs többé 2 ICloneable\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-02-04 Betöltés gomb nincs többé 2 ICloneable\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-02-04 Betöltés gomb nincs többé 2 ICloneable\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-04 Betöltés gomb nincs többé 2 ICloneable\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-05 Kiterjedt lekérdezés\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-02-05 Kiterjedt lekérdezés\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-02-05 Kiterjedt lekérdezés\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-02-05 Kiterjedt lekérdezés\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-05 Kiterjedt lekérdezés\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-05 Kiterjedt lekérdezés\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-02-05 Kiterjedt lekérdezés\BeKi\BeKi\obj\Debug\BeKi.SzervizFrm.resources
+e:\Szakdolgozat\2020-02-05 Kiterjedt lekérdezés\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-02-05 Kiterjedt lekérdezés\BeKi\BeKi\obj\Debug\BeKi.HonapEpito.resources
+e:\Szakdolgozat\2020-02-05 Kiterjedt lekérdezés\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-02-05 Kiterjedt lekérdezés\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-02-05 Kiterjedt lekérdezés\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-02-05 Kiterjedt lekérdezés\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-02-05 Kiterjedt lekérdezés\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-02-05 Kiterjedt lekérdezés\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-05 Kiterjedt lekérdezés\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-05 Kiterjedt lekérdezés\BeKi\BeKi\obj\Debug\BeKi.EvesKimutatasFrm.resources
+e:\Szakdolgozat\2020-05-06\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-05-06\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-05-06\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-05-06\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-05-06\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-05-06\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-05-06\BeKi\BeKi\obj\Debug\BeKi.SzervizFrm.resources
+e:\Szakdolgozat\2020-05-06\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-05-06\BeKi\BeKi\obj\Debug\BeKi.HonapEpito.resources
+e:\Szakdolgozat\2020-05-06\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-05-06\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-05-06\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-05-06\BeKi\BeKi\obj\Debug\BeKi.EvesKimutatasFrm.resources
+e:\Szakdolgozat\2020-05-06\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-05-06\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-05-06\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-05-06\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-05-06 -2\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-05-06 -2\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-05-06 -2\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-05-06 -2\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-05-06 -2\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-05-06 -2\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-05-06 -2\BeKi\BeKi\obj\Debug\BeKi.SzervizFrm.resources
+e:\Szakdolgozat\2020-05-06 -2\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-05-06 -2\BeKi\BeKi\obj\Debug\BeKi.HonapEpito.resources
+e:\Szakdolgozat\2020-05-06 -2\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-05-06 -2\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-05-06 -2\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-05-06 -2\BeKi\BeKi\obj\Debug\BeKi.EvesKimutatasFrm.resources
+e:\Szakdolgozat\2020-05-06 -2\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-05-06 -2\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-05-06 -2\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-05-06 -2\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-08\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-02-08\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-02-08\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-02-08\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-08\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-08\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-02-08\BeKi\BeKi\obj\Debug\BeKi.SzervizFrm.resources
+e:\Szakdolgozat\2020-02-08\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-02-08\BeKi\BeKi\obj\Debug\BeKi.HonapEpito.resources
+e:\Szakdolgozat\2020-02-08\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-02-08\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-02-08\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-02-08\BeKi\BeKi\obj\Debug\BeKi.EvesKimutatasFrm.resources
+e:\Szakdolgozat\2020-02-08\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-02-08\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-02-08\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-08\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-09\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-02-09\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-02-09\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-02-09\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-09\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-09\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-02-09\BeKi\BeKi\obj\Debug\BeKi.SzervizFrm.resources
+e:\Szakdolgozat\2020-02-09\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-02-09\BeKi\BeKi\obj\Debug\BeKi.HonapEpito.resources
+e:\Szakdolgozat\2020-02-09\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-02-09\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-02-09\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-02-09\BeKi\BeKi\obj\Debug\BeKi.EvesKimutatasFrm.resources
+e:\Szakdolgozat\2020-02-09\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-02-09\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-02-09\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-09\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-09 Mutex\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-02-09 Mutex\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-02-09 Mutex\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-02-09 Mutex\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-09 Mutex\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-09 Mutex\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-02-09 Mutex\BeKi\BeKi\obj\Debug\BeKi.SzervizFrm.resources
+e:\Szakdolgozat\2020-02-09 Mutex\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-02-09 Mutex\BeKi\BeKi\obj\Debug\BeKi.HonapEpito.resources
+e:\Szakdolgozat\2020-02-09 Mutex\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-02-09 Mutex\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-02-09 Mutex\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-02-09 Mutex\BeKi\BeKi\obj\Debug\BeKi.EvesKimutatasFrm.resources
+e:\Szakdolgozat\2020-02-09 Mutex\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-02-09 Mutex\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-02-09 Mutex\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-09 Mutex\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-10 Tesztelés\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-02-10 Tesztelés\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-10 Tesztelés\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-10 Tesztelés\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-02-10 Tesztelés\BeKi\BeKi\obj\Debug\BeKi.SzervizFrm.resources
+e:\Szakdolgozat\2020-02-10 Tesztelés\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-02-10 Tesztelés\BeKi\BeKi\obj\Debug\BeKi.HonapEpito.resources
+e:\Szakdolgozat\2020-02-10 Tesztelés\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-02-10 Tesztelés\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-02-10 Tesztelés\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-02-10 Tesztelés\BeKi\BeKi\obj\Debug\BeKi.EvesKimutatasFrm.resources
+e:\Szakdolgozat\2020-02-10 Tesztelés\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-02-10 Tesztelés\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-02-10 Tesztelés\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-10 Tesztelés\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-10 Tesztelés\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-02-10 Tesztelés\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-02-12 Hibajavítás, tisztázás\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-02-12 Hibajavítás, tisztázás\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-02-12 Hibajavítás, tisztázás\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-02-12 Hibajavítás, tisztázás\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-12 Hibajavítás, tisztázás\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-12 Hibajavítás, tisztázás\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-02-12 Hibajavítás, tisztázás\BeKi\BeKi\obj\Debug\BeKi.SzervizFrm.resources
+e:\Szakdolgozat\2020-02-12 Hibajavítás, tisztázás\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-02-12 Hibajavítás, tisztázás\BeKi\BeKi\obj\Debug\BeKi.HonapEpito.resources
+e:\Szakdolgozat\2020-02-12 Hibajavítás, tisztázás\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-02-12 Hibajavítás, tisztázás\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-02-12 Hibajavítás, tisztázás\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-02-12 Hibajavítás, tisztázás\BeKi\BeKi\obj\Debug\BeKi.EvesKimutatasFrm.resources
+e:\Szakdolgozat\2020-02-12 Hibajavítás, tisztázás\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-02-12 Hibajavítás, tisztázás\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-02-12 Hibajavítás, tisztázás\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-12 Hibajavítás, tisztázás\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-13\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-02-13\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-02-13\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-02-13\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-13\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-13\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-02-13\BeKi\BeKi\obj\Debug\BeKi.SzervizFrm.resources
+e:\Szakdolgozat\2020-02-13\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-02-13\BeKi\BeKi\obj\Debug\BeKi.HonapEpito.resources
+e:\Szakdolgozat\2020-02-13\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-02-13\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-02-13\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-02-13\BeKi\BeKi\obj\Debug\BeKi.EvesKimutatasFrm.resources
+e:\Szakdolgozat\2020-02-13\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-02-13\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-02-13\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-13\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-14\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-02-14\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-02-14\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-02-14\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-14\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-14\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-02-14\BeKi\BeKi\obj\Debug\BeKi.SzervizFrm.resources
+e:\Szakdolgozat\2020-02-14\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-02-14\BeKi\BeKi\obj\Debug\BeKi.HonapEpito.resources
+e:\Szakdolgozat\2020-02-14\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-02-14\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-02-14\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-02-14\BeKi\BeKi\obj\Debug\BeKi.EvesKimutatasFrm.resources
+e:\Szakdolgozat\2020-02-14\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-02-14\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-02-14\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-14\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-15\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-02-15\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-02-15\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-02-15\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-15\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-15\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-02-15\BeKi\BeKi\obj\Debug\BeKi.SzervizFrm.resources
+e:\Szakdolgozat\2020-02-15\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-02-15\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-02-15\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-02-15\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-02-15\BeKi\BeKi\obj\Debug\BeKi.EvesKimutatasFrm.resources
+e:\Szakdolgozat\2020-02-15\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-02-15\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-02-15\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-15\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-15\BeKi\BeKi\obj\Debug\BeKi.HonapEpitoFrm.resources
+e:\Szakdolgozat\2020-02-25 Form név helyesbítés\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-02-25 Form név helyesbítés\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-02-25 Form név helyesbítés\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-02-25 Form név helyesbítés\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-25 Form név helyesbítés\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-02-25 Form név helyesbítés\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-02-25 Form név helyesbítés\BeKi\BeKi\obj\Debug\BeKi.SzervizFrm.resources
+e:\Szakdolgozat\2020-02-25 Form név helyesbítés\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-02-25 Form név helyesbítés\BeKi\BeKi\obj\Debug\BeKi.HonapEpitoFrm.resources
+e:\Szakdolgozat\2020-02-25 Form név helyesbítés\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-02-25 Form név helyesbítés\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-02-25 Form név helyesbítés\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-02-25 Form név helyesbítés\BeKi\BeKi\obj\Debug\BeKi.EvesKimutatasFrm.resources
+e:\Szakdolgozat\2020-02-25 Form név helyesbítés\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-02-25 Form név helyesbítés\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-02-25 Form név helyesbítés\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-02-25 Form név helyesbítés\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-03-04\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-03-04\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-03-04\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-03-04\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-03-04\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-03-04\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-03-04\BeKi\BeKi\obj\Debug\BeKi.SzervizFrm.resources
+e:\Szakdolgozat\2020-03-04\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-03-04\BeKi\BeKi\obj\Debug\BeKi.HonapEpitoFrm.resources
+e:\Szakdolgozat\2020-03-04\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-03-04\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-03-04\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-03-04\BeKi\BeKi\obj\Debug\BeKi.EvesKimutatasFrm.resources
+e:\Szakdolgozat\2020-03-04\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-03-04\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-03-04\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-03-04\BeKi\BeKi\obj\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-03-07 Utolsó tisztázás\BeKi\BeKi\bin\Debug\KonyvelesDB.mdf
+e:\Szakdolgozat\2020-03-07 Utolsó tisztázás\BeKi\BeKi\bin\Debug\KonyvelesDB_log.ldf
+e:\Szakdolgozat\2020-03-07 Utolsó tisztázás\BeKi\BeKi\bin\Debug\BeKi.exe.config
+e:\Szakdolgozat\2020-03-07 Utolsó tisztázás\BeKi\BeKi\bin\Debug\BeKi.exe
+e:\Szakdolgozat\2020-03-07 Utolsó tisztázás\BeKi\BeKi\bin\Debug\BeKi.pdb
+e:\Szakdolgozat\2020-03-07 Utolsó tisztázás\BeKi\BeKi\obj\Debug\BeKi.csprojAssemblyReference.cache
+e:\Szakdolgozat\2020-03-07 Utolsó tisztázás\BeKi\BeKi\obj\Debug\BeKi.SzervizFrm.resources
+e:\Szakdolgozat\2020-03-07 Utolsó tisztázás\BeKi\BeKi\obj\Debug\BeKi.BizonylatFrm.resources
+e:\Szakdolgozat\2020-03-07 Utolsó tisztázás\BeKi\BeKi\obj\Debug\BeKi.HonapEpitoFrm.resources
+e:\Szakdolgozat\2020-03-07 Utolsó tisztázás\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasKategoriaFrm.resources
+e:\Szakdolgozat\2020-03-07 Utolsó tisztázás\BeKi\BeKi\obj\Debug\BeKi.PenzmozgasFrm.resources
+e:\Szakdolgozat\2020-03-07 Utolsó tisztázás\BeKi\BeKi\obj\Debug\BeKi.BeKi.resources
+e:\Szakdolgozat\2020-03-07 Utolsó tisztázás\BeKi\BeKi\obj\Debug\BeKi.EvesKimutatasFrm.resources
+e:\Szakdolgozat\2020-03-07 Utolsó tisztázás\BeKi\BeKi\obj\Debug\BeKi.Properties.Resources.resources
+e:\Szakdolgozat\2020-03-07 Utolsó tisztázás\BeKi\BeKi\obj\Debug\BeKi.csproj.GenerateResource.cache
+e:\Szakdolgozat\2020-03-07 Utolsó tisztázás\BeKi\BeKi\obj\Debug\BeKi.exe
+e:\Szakdolgozat\2020-03-07 Utolsó tisztázás\BeKi\BeKi\obj\Debug\BeKi.pdb
